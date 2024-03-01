@@ -1,22 +1,17 @@
-#🏋️ Fitness Plan App
+# 🏋️ Fitness Plan App
+
 Fitness Plan App is an Android application designed to help users select and customize their fitness plans. The app features a static list of fitness plans, allowing users to choose and visualize their selected plans with dynamic UI changes implemented using Jetpack Compose.
 
-###Features
+### Features
 *This sample app demonstrates the following features using Jetpack Compose:
 *Static Fitness Plan List: Displays a static list of fitness plans for users to choose from.
 *Item Selection: Implements the ability for users to select a fitness plan from the list.
 *Dynamic UI Changes: Changes the UI dynamically based on the selected fitness plan, providing an interactive and personalized experience.
 
-###Screenshots
+### Screenshots
 
-bash
-Copy code
-git clone https://github.com/yourusername/fitness-plan-app.git
-Open the project in Android Studio.
 
-Build and run the app on your emulator or physical device.
-
-##License
+## License
 sql
 Copy code
 Copyright 2022 Your Name
